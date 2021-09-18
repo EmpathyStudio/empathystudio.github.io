@@ -4,6 +4,10 @@
     <title>Tags on Empathy Studio</title>
     <link>http://empathystudio.github.io/tags/</link>
     <description>Recent content in Tags on Empathy Studio</description>
+    <image>
+      <url>http://empathystudio.github.io/papermod-cover.png</url>
+      <link>http://empathystudio.github.io/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://empathystudio.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
