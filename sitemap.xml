@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://www.empathystudio.co.uk/en/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://www.empathystudio.co.uk/categories/</loc>
+  </url>
   
-  <sitemap>
-    <loc>https://www.empathystudio.co.uk/fr/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://www.empathystudio.co.uk/</loc>
+  </url>
   
-  <sitemap>
-    <loc>https://www.empathystudio.co.uk/fa/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://www.empathystudio.co.uk/series/</loc>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://www.empathystudio.co.uk/tags/</loc>
+  </url>
+  
+</urlset>
