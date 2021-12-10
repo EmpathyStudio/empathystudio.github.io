@@ -1,14 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Empathy Studio</title>
+    <title>EMPATHY STUDIO</title>
     <link>https://www.empathystudio.co.uk/</link>
-    <description>Recent content on Empathy Studio</description>
+    <description>Recent content on EMPATHY STUDIO</description>
     <image>
       <url>https://www.empathystudio.co.uk/papermod-cover.png</url>
       <link>https://www.empathystudio.co.uk/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.empathystudio.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 10:20:26 +0000</lastBuildDate><atom:link href="https://www.empathystudio.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slow Glow</title>
+      <link>https://www.empathystudio.co.uk/work/solareclipse/</link>
+      <pubDate>Thu, 02 Dec 2021 10:20:26 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/work/solareclipse/</guid>
+      <description>Kinetic light sculpture</description>
+    </item>
+    
+    <item>
+      <title>Voice</title>
+      <link>https://www.empathystudio.co.uk/work/reactivecubes/</link>
+      <pubDate>Thu, 02 Dec 2021 10:20:26 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/work/reactivecubes/</guid>
+      <description>Audio-reactive performance lights</description>
+    </item>
+    
+    <item>
+      <title>Weave</title>
+      <link>https://www.empathystudio.co.uk/work/weave/</link>
+      <pubDate>Wed, 02 Dec 2020 10:20:26 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/work/weave/</guid>
+      <description>Environmental Light Sculpture</description>
+    </item>
+    
+    <item>
+      <title>The Workshop</title>
+      <link>https://www.empathystudio.co.uk/playzone/rebecca-metal-nibbler/</link>
+      <pubDate>Tue, 02 Nov 2021 10:20:26 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/playzone/rebecca-metal-nibbler/</guid>
+      <description>A series of images from The Workshop.
+     The Metal Nibbler
+   Slow Glow fabrication &amp; testing
+ </description>
+    </item>
+    
+    <item>
+      <title>Silkworm light diffuser fabrication</title>
+      <link>https://www.empathystudio.co.uk/playzone/silkworms/</link>
+      <pubDate>Sat, 02 Oct 2021 10:20:26 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/playzone/silkworms/</guid>
+      <description>Tommy : I&#39;m a big fan of the series Abstract on Netflix. Whenever I need a reminder that anything is possible I dip in to this wonderful series. I was especially inspired by the episode on Bio-architecture. Researchers at MIT Media Lab led by Neri Oxman created domes from silk fibres created by live silkworms. Traditionally during the silk gathering process, the silkworm is sacrificed to harvest it&#39;s silk. However this method allows the silkworms to weave themselves.</description>
+    </item>
+    
+    <item>
+      <title>Bioluminescent lighting</title>
+      <link>https://www.empathystudio.co.uk/playzone/bioluminescence/</link>
+      <pubDate>Wed, 02 Dec 2020 10:20:26 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/playzone/bioluminescence/</guid>
+      <description>Harnessing a sustainable light source</description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>https://www.empathystudio.co.uk/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/about/</guid>
+      <description>EMPATHY STUDIO is a collaborative art group founded by Tommy Hardman &amp;amp; Rebecca Archer. Predominantly working with Light &amp;amp; Movement in an both an interior and exterior setting. They are interested in the emotional narrative between the human, object and environment. The studio creates works that celebrate nature, using supporting technology minimally.
+Tommy is a multidisiplinary artist. He works across disciplines from sound &amp;amp; visual to engineering fabrication and design. He has been commissioned to create numerous thought provoking interactive experiences to encourage conversation in the environmental and mental health sectors.</description>
+    </item>
+    
   </channel>
 </rss>
