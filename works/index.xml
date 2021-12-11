@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Works on EMPATHY STUDIO</title>
+    <link>https://www.empathystudio.co.uk/works/</link>
+    <description>Recent content in Works on EMPATHY STUDIO</description>
+    <image>
+      <url>https://www.empathystudio.co.uk/papermod-cover.png</url>
+      <link>https://www.empathystudio.co.uk/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 10:20:26 +0000</lastBuildDate><atom:link href="https://www.empathystudio.co.uk/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slow Glow</title>
+      <link>https://www.empathystudio.co.uk/works/solareclipse/</link>
+      <pubDate>Thu, 02 Dec 2021 10:20:26 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/works/solareclipse/</guid>
+      <description>Kinetic light sculpture</description>
+    </item>
+    
+    <item>
+      <title>Voice</title>
+      <link>https://www.empathystudio.co.uk/works/reactivecubes/</link>
+      <pubDate>Thu, 02 Dec 2021 10:20:26 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/works/reactivecubes/</guid>
+      <description>Audio-reactive performance lights</description>
+    </item>
+    
+    <item>
+      <title>Weave</title>
+      <link>https://www.empathystudio.co.uk/works/weave/</link>
+      <pubDate>Wed, 02 Dec 2020 10:20:26 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/works/weave/</guid>
+      <description>Environmental Light Sculpture</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,37 +13,49 @@
     <lastBuildDate>Thu, 02 Dec 2021 10:20:26 +0000</lastBuildDate><atom:link href="https://www.empathystudio.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slow Glow</title>
-      <link>https://www.empathystudio.co.uk/work/solareclipse/</link>
+      <link>https://www.empathystudio.co.uk/works/solareclipse/</link>
       <pubDate>Thu, 02 Dec 2021 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/work/solareclipse/</guid>
+      <guid>https://www.empathystudio.co.uk/works/solareclipse/</guid>
       <description>Kinetic light sculpture</description>
     </item>
     
     <item>
       <title>Voice</title>
-      <link>https://www.empathystudio.co.uk/work/reactivecubes/</link>
+      <link>https://www.empathystudio.co.uk/works/reactivecubes/</link>
       <pubDate>Thu, 02 Dec 2021 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/work/reactivecubes/</guid>
+      <guid>https://www.empathystudio.co.uk/works/reactivecubes/</guid>
       <description>Audio-reactive performance lights</description>
     </item>
     
     <item>
       <title>Weave</title>
-      <link>https://www.empathystudio.co.uk/work/weave/</link>
+      <link>https://www.empathystudio.co.uk/works/weave/</link>
       <pubDate>Wed, 02 Dec 2020 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/work/weave/</guid>
+      <guid>https://www.empathystudio.co.uk/works/weave/</guid>
       <description>Environmental Light Sculpture</description>
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://www.empathystudio.co.uk/about/</link>
+      <pubDate>Wed, 01 Dec 2021 21:22:16 +0000</pubDate>
+      
+      <guid>https://www.empathystudio.co.uk/about/</guid>
+      <description>Tommy Hardman | Rebecca Archer
+-- EMPATHY STUDIO is a response to the ever-developing technologies that direct us away from the powers of nature and our own introspection. The art created at EMPATHY STUDIO emulates the movement, sound and light of the natural world and aims to bring people back to a slower, more natural pace of life.
+THE AIM
+Continuing to design &amp;amp; fabricate captivating artworks, EMPATHY STUDIO is driven to promote environmental change through providing a space for reflection and contemplation of the world around us.</description>
+    </item>
+    
+    <item>
       <title>The Workshop</title>
-      <link>https://www.empathystudio.co.uk/playzone/rebecca-metal-nibbler/</link>
+      <link>https://www.empathystudio.co.uk/blog/rebecca-metal-nibbler/</link>
       <pubDate>Tue, 02 Nov 2021 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/playzone/rebecca-metal-nibbler/</guid>
+      <guid>https://www.empathystudio.co.uk/blog/rebecca-metal-nibbler/</guid>
       <description>A series of images from The Workshop.
      The Metal Nibbler
    Slow Glow fabrication &amp; testing
@@ -51,31 +63,21 @@
     </item>
     
     <item>
-      <title>Silkworm light diffuser fabrication</title>
-      <link>https://www.empathystudio.co.uk/playzone/silkworms/</link>
+      <title>Silkworm Architects</title>
+      <link>https://www.empathystudio.co.uk/blog/silkworms/</link>
       <pubDate>Sat, 02 Oct 2021 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/playzone/silkworms/</guid>
-      <description>Tommy : I&#39;m a big fan of the series Abstract on Netflix. Whenever I need a reminder that anything is possible I dip in to this wonderful series. I was especially inspired by the episode on Bio-architecture. Researchers at MIT Media Lab led by Neri Oxman created domes from silk fibres created by live silkworms. Traditionally during the silk gathering process, the silkworm is sacrificed to harvest it&#39;s silk. However this method allows the silkworms to weave themselves.</description>
+      <guid>https://www.empathystudio.co.uk/blog/silkworms/</guid>
+      <description>Sustainable light diffusion</description>
     </item>
     
     <item>
       <title>Bioluminescent lighting</title>
-      <link>https://www.empathystudio.co.uk/playzone/bioluminescence/</link>
+      <link>https://www.empathystudio.co.uk/blog/bioluminescence/</link>
       <pubDate>Wed, 02 Dec 2020 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/playzone/bioluminescence/</guid>
+      <guid>https://www.empathystudio.co.uk/blog/bioluminescence/</guid>
       <description>Harnessing a sustainable light source</description>
-    </item>
-    
-    <item>
-      <title>Biography</title>
-      <link>https://www.empathystudio.co.uk/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.empathystudio.co.uk/about/</guid>
-      <description>EMPATHY STUDIO is a collaborative art group founded by Tommy Hardman &amp;amp; Rebecca Archer. Predominantly working with Light &amp;amp; Movement in an both an interior and exterior setting. They are interested in the emotional narrative between the human, object and environment. The studio creates works that celebrate nature, using supporting technology minimally.
-Tommy is a multidisiplinary artist. He works across disciplines from sound &amp;amp; visual to engineering fabrication and design. He has been commissioned to create numerous thought provoking interactive experiences to encourage conversation in the environmental and mental health sectors.</description>
     </item>
     
   </channel>
