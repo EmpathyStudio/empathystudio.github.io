@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>EMPATHY STUDIO</title>
-    <link>https://www.empathystudio.co.uk/</link>
-    <description>Recent content on EMPATHY STUDIO</description>
+    <title>Studio Thomas Willow</title>
+    <link>https://www.studiothomaswillow.co.uk/</link>
+    <description>Recent content on Studio Thomas Willow</description>
     <image>
-      <url>https://www.empathystudio.co.uk/papermod-cover.png</url>
-      <link>https://www.empathystudio.co.uk/papermod-cover.png</link>
+      <url>https://www.studiothomaswillow.co.uk/papermod-cover.png</url>
+      <link>https://www.studiothomaswillow.co.uk/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Dec 2021 10:20:26 +0000</lastBuildDate><atom:link href="https://www.empathystudio.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 10:20:26 +0000</lastBuildDate><atom:link href="https://www.studiothomaswillow.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Slow Glow</title>
-      <link>https://www.empathystudio.co.uk/works/solareclipse/</link>
+      <title>Solar Eclipse Wall Light</title>
+      <link>https://www.studiothomaswillow.co.uk/works/solareclipse/</link>
       <pubDate>Thu, 02 Dec 2021 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/works/solareclipse/</guid>
-      <description>Kinetic light sculpture</description>
+      <guid>https://www.studiothomaswillow.co.uk/works/solareclipse/</guid>
+      <description>Slow Glow kinetic light
+An interior solar eclipse. Observe the sun &amp;amp; moon dynamically change before you. Allow yourself to align with the movement of the moon and feel calm, reflective &amp;amp; present. You know what is going to happen next but you can&amp;rsquo;t take your eyes away. Captivated by the eclipsing of light. The anticipation is intriguing.
+Both serving as an interior piece for cosy evenings and a larger scale public art installation.</description>
     </item>
     
     <item>
-      <title>Voice</title>
-      <link>https://www.empathystudio.co.uk/works/reactivecubes/</link>
+      <title>Audio Reactive Cubes</title>
+      <link>https://www.studiothomaswillow.co.uk/works/reactivecubes/</link>
       <pubDate>Thu, 02 Dec 2021 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/works/reactivecubes/</guid>
-      <description>Audio-reactive performance lights</description>
+      <guid>https://www.studiothomaswillow.co.uk/works/reactivecubes/</guid>
+      <description>The voice &amp; responsive lighting
+A realtime response to the human voice. Become captivated in a warm glow to the sound of sultry tones. The combination of choral music and light. Two of the purest elements in our lives together playing in harmony.
+With scope that extends beyond music performance into the realms of therapy and mindful spaces, this piece has unlimited potential for reflection, contemplation &amp;amp; healing.
+A custom PCB was created to live within the light diffuser.</description>
     </item>
     
     <item>
-      <title>Weave</title>
-      <link>https://www.empathystudio.co.uk/works/weave/</link>
+      <title>Environmental Light Sculpture</title>
+      <link>https://www.studiothomaswillow.co.uk/works/weave/</link>
       <pubDate>Wed, 02 Dec 2020 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/works/weave/</guid>
-      <description>Environmental Light Sculpture</description>
+      <guid>https://www.studiothomaswillow.co.uk/works/weave/</guid>
+      <description>As the wood dies and rots away, the light will never fade. The woven structure resembles a cloud-like form made from wood. Contrast of the flow of branches against the industrial strip light. Eventually the surrounding branches will fall and the man-made light will remain. All the answers lie within nature, not technology.
+&#34; There&#39;s some unease in the shape of the light source and the position of it It&#39;s below the branches, protected.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://www.empathystudio.co.uk/about/</link>
+      <link>https://www.studiothomaswillow.co.uk/about/</link>
       <pubDate>Wed, 01 Dec 2021 21:22:16 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/about/</guid>
+      <guid>https://www.studiothomaswillow.co.uk/about/</guid>
       <description>Tommy Hardman | Rebecca Archer
--- EMPATHY STUDIO is a response to the ever-developing technologies that direct us away from the powers of nature and our own introspection. The art created at EMPATHY STUDIO emulates the movement, sound and light of the natural world and aims to bring people back to a slower, more natural pace of life.
-THE AIM
-EMPATHY STUDIO is driven to promote environmental change. Restoring the balance between nature &amp;amp; technology through captivating artworks.</description>
+-- Studio Thomas Willow creates atworks that encourage deep introspection from the viewer. With experience across engineering, graphic design, illustration, music. The studio strives to be unconstrained by new mediums to create powerful artwork.
+Studio Thomas Willow is a response to the ever-developing technologies that direct us away from the powers of nature and our own introspection. The art created at Studio Thomas Willow emulates the movement, sound and light of the natural world and aims to bring people back to a slower, more natural pace of life.</description>
     </item>
     
     <item>
       <title>The Workshop</title>
-      <link>https://www.empathystudio.co.uk/blog/rebecca-metal-nibbler/</link>
+      <link>https://www.studiothomaswillow.co.uk/blog/rebecca-metal-nibbler/</link>
       <pubDate>Tue, 02 Nov 2021 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/blog/rebecca-metal-nibbler/</guid>
+      <guid>https://www.studiothomaswillow.co.uk/blog/rebecca-metal-nibbler/</guid>
       <description>A series of images from The Workshop.
      The Metal Nibbler
    Slow Glow fabrication &amp; testing
@@ -64,19 +69,19 @@ EMPATHY STUDIO is driven to promote environmental change. Restoring the balance 
     
     <item>
       <title>Silkworm Architects</title>
-      <link>https://www.empathystudio.co.uk/blog/silkworms/</link>
+      <link>https://www.studiothomaswillow.co.uk/blog/silkworms/</link>
       <pubDate>Sat, 02 Oct 2021 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/blog/silkworms/</guid>
+      <guid>https://www.studiothomaswillow.co.uk/blog/silkworms/</guid>
       <description>Sustainable light diffusion</description>
     </item>
     
     <item>
       <title>Bioluminescent lighting</title>
-      <link>https://www.empathystudio.co.uk/blog/bioluminescence/</link>
+      <link>https://www.studiothomaswillow.co.uk/blog/bioluminescence/</link>
       <pubDate>Wed, 02 Dec 2020 10:20:26 +0000</pubDate>
       
-      <guid>https://www.empathystudio.co.uk/blog/bioluminescence/</guid>
+      <guid>https://www.studiothomaswillow.co.uk/blog/bioluminescence/</guid>
       <description>Harnessing a sustainable light source</description>
     </item>
     
