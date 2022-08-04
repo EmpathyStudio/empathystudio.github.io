@@ -1,55 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.studiothomaswillow.co.uk/works/solareclipse/</loc>
     <lastmod>2021-12-02T10:20:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.studiothomaswillow.co.uk/works/reactivecubes/</loc>
     <lastmod>2021-12-02T10:20:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.studiothomaswillow.co.uk/works/weave/</loc>
     <lastmod>2020-12-02T10:20:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.studiothomaswillow.co.uk/blog/</loc>
     <lastmod>2021-12-02T10:20:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.studiothomaswillow.co.uk/</loc>
     <lastmod>2021-12-02T10:20:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.studiothomaswillow.co.uk/works/</loc>
     <lastmod>2021-12-02T10:20:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.studiothomaswillow.co.uk/about/</loc>
     <lastmod>2021-12-01T21:22:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.studiothomaswillow.co.uk/blog/rebecca-metal-nibbler/</loc>
     <lastmod>2021-11-02T10:20:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.studiothomaswillow.co.uk/blog/silkworms/</loc>
     <lastmod>2021-10-02T10:20:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.studiothomaswillow.co.uk/blog/bioluminescence/</loc>
     <lastmod>2020-12-02T10:20:26+00:00</lastmod>
   </url>
-  
 </urlset>
